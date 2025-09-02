@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Assigment1 {
+public class question1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of marks: ");
